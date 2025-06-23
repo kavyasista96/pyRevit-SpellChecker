@@ -1,0 +1,7 @@
+{
+  "name": "MySpellChecker",
+  "author": "YourName",
+  "description": "Interactive spell checker for Revit text notes and schedules",
+  "guid": "a-unique-guid-here",   <-- generate from https://guidgenerator.com/
+  "version": "1.0"
+}
